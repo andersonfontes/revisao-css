@@ -3,5 +3,5 @@
 
 ### Hierarquia e especificidade CSS
 
-!(Imagem CSS)[imagem.jpg]
+![Imagem CSS](./imagem.jpg)
 
