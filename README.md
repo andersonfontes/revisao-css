@@ -5,3 +5,4 @@
 
 ![Imagem CSS](./imagem.jpg)
 
+<img src="./imagem.jpg" alt="Imagem CSS">
