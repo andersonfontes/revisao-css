@@ -25,13 +25,14 @@ p {
 
 .fundo-verde{
     color: yellow;
-    background-color: green;       
+    background-color: green;          
 }
 
 /* usar sinal de maior> para filhos diretos */
 /* usar espaço para todos os descendentes */
 .fundo-verde  p{
-    color: yellow;
+    color: yellow;   
+    transition: all 1s ease; 
 }
 
 
